@@ -10,7 +10,7 @@
         },
         {
             "name": "server",
-            "image": "jacmjoseph/server",
+            "image": "jacmjoseph/multi-server",
             "hostname": "api",
             "essential": false,
             "memory": 128
